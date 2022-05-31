@@ -15,5 +15,5 @@ public class Orang {
         this.alamat = alamat;
     }
     
-    
+    private String lala;
 }
