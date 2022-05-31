@@ -21,7 +21,7 @@ public class Pekerja {
     }
     
     public void showdata(){
-        System.out.println("TONOTONOTONO");
+        System.out.println("udin udin ");
     }
     
 }
