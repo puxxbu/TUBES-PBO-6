@@ -3,7 +3,7 @@
 package model;
 
 /*
-Tono ok siap
+Tono ok siap masuk orang
 */
 
 
