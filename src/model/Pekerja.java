@@ -10,6 +10,11 @@ package model;
  */
 public class Pekerja {
     private String nama;
+    private String tahun;
+    private float gaji;
+    
+    
+  
 
     public Pekerja(String nama) {
         this.nama = nama;
