@@ -15,6 +15,8 @@ public class Pekerja {
         this.nama = nama;
     }
     
-    
+    public void showdata(){
+        System.out.println("alallala");
+    }
     
 }
